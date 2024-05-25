@@ -1,0 +1,11 @@
+[project]
+name = "repo_template"
+version = "0.1.0"
+description = "A template repo that is managed by pixi"
+authors = ["Austin Gregg-Smith <blooop@gmail.com>"]
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[tasks]
+
+[dependencies]
